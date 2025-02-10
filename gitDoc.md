@@ -5,7 +5,7 @@ ShortCut terminal keyboard = cntr + shift + `
 # Installation, init, status & clone
 
 Create working Directory:
-=>mkdir gitone (filname)
+=>mkdir gitone (filname) </br>
 To go forward from the current
 =>cd gitone
 Inside gitone folder create file:
