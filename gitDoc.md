@@ -48,7 +48,7 @@ Stage -> Local Repository[Commit] -> Remote </br>
 
 Now you can commit all stage file:
 => git commit -m "Your message" </br>
-Now if you want to go back to the local again from commit then:(~tail symbol)
+Now if you want to go back to the local again from commit then: [~tail symbol] </br>
 => git reset HEAD~ </br>
 If you want to get back all changes file and deleted file in hard core:
 => git reset --hard </br>
